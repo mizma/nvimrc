@@ -9,7 +9,7 @@ Install
 ### Windows
 
 ~~~bash
-git clone https://github.com/koma75/nvConfig.git %LOCALAPPDATA%\nvim && nvim
+git clone https://github.com/mizma/nvimrc.git %LOCALAPPDATA%\nvim && nvim
 ~~~
 
 Some pre-requisites should be installed as well.
@@ -38,7 +38,7 @@ yay -Sy ttf-hackgen
 ### Arch Linux
 
 ~~~bash
-git clone https://github.com/koma75/nvConfig.git ~/.config/nvim && nvim
+git clone https://github.com/mizma/nvimrc.git ~/.config/nvim && nvim
 ~~~
 
 Plugins
