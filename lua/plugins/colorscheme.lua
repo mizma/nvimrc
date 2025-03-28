@@ -7,7 +7,7 @@ return {
       vim.g.gruvbox_material_enable_italic = true
 
       -- hard, medium or soft
-      vim.g.gruvbox_material_background = "hard"
+      vim.g.gruvbox_material_background = "soft"
 
       -- material, mix or original
       vim.g.gruvbox_material_foreground = "material"
