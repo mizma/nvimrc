@@ -8,4 +8,5 @@ vim.cmd("set tabstop=4")
 vim.cmd("set softtabstop=4")
 vim.cmd("set shiftwidth=4")
 vim.cmd("set clipboard+=unnamedplus")
+vim.cmd("set cc=120")
 vim.g.autoformat = false
