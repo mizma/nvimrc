@@ -1,3 +1,7 @@
+if not require("lazy.core.config").plugins["avante.nvim"] then
+  return {}
+end
+
 return {
   {
     "yetone/avante.nvim",
