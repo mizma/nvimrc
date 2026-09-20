@@ -4,7 +4,8 @@ return {
     opts = {
       servers = {
         marksman = {
-          mason = false, -- Tells LazyVim/Mason to use system `marksman`
+          mason = false,
+          cmd = { "marksman", "server" },
         },
       },
     },
